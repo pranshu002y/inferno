@@ -209,6 +209,15 @@ body{
  
 }
 
+.marquee-1{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+  rotate:5deg;
+  
+}
+
 span{
   text-transform: uppercase;
   white-space: nowrap;
